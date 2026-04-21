@@ -27,7 +27,6 @@
     },
     "chat-messages": {
       "enabled": false
-    }
     },
     "chat-log": true,
     "auto-reconnect": true,
